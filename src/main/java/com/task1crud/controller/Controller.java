@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.task1crud.model.Employee;
 import com.task1crud.model.User;
 
-@CrossOrigin(origins = "http://localhost:57736")
+@CrossOrigin(origins = "http://localhost:4200")
 
 @RestController
 @RequestMapping({ "/employees" })
