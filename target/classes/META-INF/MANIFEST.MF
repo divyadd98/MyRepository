@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Divya Dharshini S
+Build-Jdk: 15.0.2
+Implementation-Title: SpringBootHelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.task1crud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Task1crud
+Created-By: Maven Integration for Eclipse
+
